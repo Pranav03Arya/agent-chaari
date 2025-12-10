@@ -123,8 +123,5 @@ print(chatbot.answer("Tell me about Kedarnath Temple")["reply"])
   space.
 
 ## Maintainers and contributions
-- Maintainer: Pranav (repository owner).
-- Contributions are welcome via pull requests; keep diffs focused and follow the
-  coding style in `AGENTS.md` (PEP 8, type hints, black/isort).
-- Please avoid modifying the canonical datasets directly; prefer scripted transforms
-  and add notes in `data/` if you generate derived files.
+- Maintainer: Pranav and Karthik (repository owner).
+
