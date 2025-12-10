@@ -116,12 +116,8 @@ chatbot = backend.TempleChatbot(
 print(chatbot.answer("Tell me about Kedarnath Temple")["reply"])
 ```
 
-## Getting help
-- Check `AGENTS.md` for repository-specific conventions.
-- Open an issue or start a discussion in this repository with questions or bug reports.
-- For model download issues, retry after ensuring internet access and adequate disk
-  space.
+
 
 ## Maintainers and contributions
-- Maintainer: Pranav and Karthik (repository owner).
+- Maintainer: Pranav Arya and Karthik Sanvelly.
 
